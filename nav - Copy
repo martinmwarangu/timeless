@@ -1,0 +1,72 @@
+ <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
+            <div class="container">
+      
+              <a class="navbar-brand" href="index.html">Timeless</a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+                <div class="collapse navbar-collapse" id="navabrCollapse">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a href="index.html" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">About-us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Contacts</a>
+                        </li>
+                        <li class="nav-item">
+                             <a href="#" class="nav-link">
+                            <i class="fas fa-shopping-cart fa-2x"></i>
+                            </a>   
+                        </li>
+                    </ul>
+                </div>
+              
+            </div>
+        </nav>
+        <div class="carousel-inner">
+                    <div class="carousel-item carousel-image-1 active">
+                        <div class="container">
+                            <div class="carousel-caption d-none d-sm-block text-right mb-5">
+                                <h1 class="display-3 title-color">Welcome to Timeless</h1>
+                                <p class="lead">Get yourself a timeless pieces to suit all occasions</p>
+                                <a href="#" class="btn slide-btn btn-lg btn-outline-light">Get Started</a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item carousel-image-2 ">
+                        <div class="container">
+                            <div class="carousel-caption d-none d-sm-block text-right mb-5">
+                                <h1 class="display-3 title-color">Elegance & Style</h1>
+                                <p class="lead">Get yourself a timeless pieces to suit all occasions</p>
+                                <a href="#" class="btn slide-btn btn-lg btn-outline-light">View products</a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item carousel-image-3 ">
+                        <div class="container">
+                            <div class="carousel-caption d-none d-sm-block text-right mb-5">
+                                <h1 class="display-3 title-color">Subscribe to our maling list</h1>
+                                <p class="lead">Get new product information striaght to your phone</p>
+                                <a href="#" class="btn slide-btn btn-lg btn-outline-light">Subscribe</a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
